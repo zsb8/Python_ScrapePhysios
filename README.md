@@ -1,2 +1,2 @@
 # Python_crawl_physios
-Crawl Quebec physios info from the public webside and ETL to PostgreSQL.
+Crawl Quebec physios info from the gov website and ETL data to PostgreSQL.
